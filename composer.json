@@ -1,0 +1,16 @@
+{
+  "require":
+  {
+    "phpclasses/dropsize-smarty": ">=1.0"
+  },
+  "repositories":
+  [
+    {
+      "type": "composer",
+      "url": "http:\/\/www.phpclasses.org\/"
+    },
+    {
+      "packagist": false
+    }
+  ]
+}
